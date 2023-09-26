@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "id":1,
+      "question":"01. I don't remember my password?",
+      "answer": "Click 'Forget password' and create a new password. "
+    },
+    {
+      "id":2,
+      "question":"02. How can I create an account at your site?",
+      "answer": "Click on 'Login & Sign up' at the top of the page. Then fill out your information in the 'Create an account' section and click the 'Sign Up' button. You can also create an account directly after placing an order. Your delivery address and the order details will then be saved in your account."
+    },
+    {
+      "id":3,
+      "question":"03. What are your delivery hours?",
+      "answer": "We deliver from 9:00 am - 4:00 pm."
+    },
+    {
+      "id":4,
+      "question":"01. I don't remember my password?",
+      "answer": "It usually takes 5-7 business days."
+    },
+    {
+      "id":5,
+      "question": "04. How much time it takes to deliver the order?",
+      "answer": "Click track my order and input your order number."
+    }
+  ]
+}

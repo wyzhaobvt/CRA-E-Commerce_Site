@@ -7,7 +7,7 @@ import Home from './components/Home';
 import AboutUs from './components/AboutUs';
 import Products from './components/Products';
 import ContactUs from './components/ContactUs';
-import FAQ from './components/FAQ';
+import FAQs from './components/FAQs';
 
 
 function App() {
@@ -20,7 +20,9 @@ function App() {
       <Route path='/aboutus' element={<AboutUs/>}></Route>
       <Route path='/products' element={<Products/>}></Route>
       <Route path='/contactus' element={<ContactUs/>}></Route>
-      <Route path='/FAQ' element={<FAQ/>}></Route>
+      <Route path='/FAQ' element={<FAQs/>}></Route>
+      <Route path='*' element={<h1 className='m-3'>Error</h1>}/>
+      
      </Routes>
 
       <Footer/>
